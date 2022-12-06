@@ -1,11 +1,4 @@
 
-/* Use a media query to add a breakpoint at 800px: */
-@media screen and (max-width: 481px) {
-  .left, .main, .right {
-    width: 60%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
-}
-
 body {
     background-color: rgba(173, 212, 232, 0.198);
 }

@@ -54,3 +54,9 @@ body {
     color: rgb(85, 164, 229);
     font-size: 20px;
 }
+
+@media only screen and (max-width: 480px) {
+    img {
+        width: 100%;
+    }
+}

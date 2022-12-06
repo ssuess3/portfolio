@@ -36,6 +36,12 @@ body {
     height: auto ;
 }
 
+@media only screen and (max-width: 480px) {
+    img {
+        width: 100%;
+    }
+}
+
 #intro {
     margin-top: 75px;
     text-align: center;

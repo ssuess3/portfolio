@@ -117,3 +117,11 @@ body {
     clear: both;
     display: table;
   }
+
+.imageContainer {
+    float: left;
+}
+
+p {
+    text-align: center;
+}

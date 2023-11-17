@@ -99,9 +99,8 @@ body {
     font-size: 20px;
 }
 
-#gameimage {
+#image2 {
     margin-top: 60px;
-    text-align: center;
-    /* size: 60% */
+    size: 60%
 }
 

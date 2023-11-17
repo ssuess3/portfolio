@@ -102,13 +102,13 @@ body {
 #gameimage {
     margin-top: 60px;
     text-align: center;
-    size: 60%
+    /* size: 60% */
 }
 
 .game-images {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    /* width: 50%; */
   }
 

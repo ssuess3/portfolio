@@ -128,3 +128,8 @@ video {
     width: 100%;
 }
 
+.gamevideo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

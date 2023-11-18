@@ -104,3 +104,14 @@ body {
     size: 60%
 }
 
+#journey {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.journey-info {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
